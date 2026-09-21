@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initEmailCopy();
   initContactForm();
   initBackToTop();
-  // initMediumFeed(); // Disabled to preserve the curated Ciena research case study showcase
+  initMediumFeed();
 });
 
 /* ==========================================================================
